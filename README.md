@@ -1,0 +1,1 @@
+<iframe title="Heart Disease Analysis" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=6763d49a-5e9f-4e6a-9aef-2a379e12fc51&autoAuth=true&ctid=05838e12-d8fe-450a-81b5-d930d437dca1" frameborder="0" allowFullScreen="true"></iframe>
